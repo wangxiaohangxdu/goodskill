@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goodsKill-util" />
+        <module name="goodsKill-api" />
+        <module name="goodsKill-entry" />
+        <module name="goodskill-es-api" />
+        <module name="goodskill-spring-boot-starter" />
+        <module name="goodsKill-generator" />
+        <module name="goodskill-mongo-api" />
+        <module name="goodsKill-web" />
+        <module name="goodskill-mongo-service" />
+        <module name="goodskill-chat-provider" />
+        <module name="goodskill-es-dao" />
+        <module name="goodsKill-service" />
+        <module name="goodsKill-common" />
+        <module name="goodsKill-mp-dao" />
+        <module name="goodskill-es-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="goodskill" target="1.8" />
+      <module name="goodsKill-api" target="1.8" />
+      <module name="goodskill-chat-provider" target="1.8" />
+      <module name="goodsKill-common" target="1.8" />
+      <module name="goodsKill-entry" target="1.8" />
+      <module name="goodskill-es-api" target="1.8" />
+      <module name="goodskill-es-dao" target="1.8" />
+      <module name="goodsKill-es-provider" target="1.8" />
+      <module name="goodskill-es-service" target="1.8" />
+      <module name="goodsKill-generator" target="1.8" />
+      <module name="goodskill-mongo-api" target="1.8" />
+      <module name="goodsKill-mongo-provider" target="1.8" />
+      <module name="goodskill-mongo-service" target="1.8" />
+      <module name="goodsKill-mp-dao" target="1.8" />
+      <module name="goodsKill-service" target="1.8" />
+      <module name="goodsKill-spring-boot-provider" target="1.8" />
+      <module name="goodskill-spring-boot-starter" target="1.8" />
+      <module name="goodsKill-spring-boot-web-consumer" target="1.8" />
+      <module name="goodsKill-util" target="1.8" />
+      <module name="goodsKill-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

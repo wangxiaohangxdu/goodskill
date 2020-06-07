@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-entry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-mp-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-mp-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

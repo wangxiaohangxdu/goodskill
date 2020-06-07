@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="goodsKill-web:war">
+    <output-path>$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>goodsKill-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="goodsKill.war">
+      <element id="artifact" artifact-name="goodsKill-web:war exploded" />
+    </root>
+  </artifact>
+</component>

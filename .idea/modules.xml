@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-api/goodsKill-api.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-api/goodsKill-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-common/goodsKill-common.iml" filepath="$PROJECT_DIR$/goodsKill-common/goodsKill-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-entry/goodsKill-entry.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-entry/goodsKill-entry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-es-provider/goodsKill-es-provider.iml" filepath="$PROJECT_DIR$/goodsKill-es-provider/goodsKill-es-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-generator/goodsKill-generator.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-generator/goodsKill-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodsKill-mongo-provider.iml" filepath="$PROJECT_DIR$/goodsKill-mongo-provider/goodsKill-mongo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-mp-dao/goodsKill-mp-dao.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-mp-dao/goodsKill-mp-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-service/goodsKill-service.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-service/goodsKill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-spring-boot-provider.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-spring-boot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-spring-boot-web-consumer.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-spring-boot-web-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-util/goodsKill-util.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-provider/goodsKill-util/goodsKill-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-web/goodsKill-web.iml" filepath="$PROJECT_DIR$/goodsKill-spring-boot-web-consumer/goodsKill-web/goodsKill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodskill.iml" filepath="$PROJECT_DIR$/goodskill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodskill-chat-provider/goodskill-chat-provider.iml" filepath="$PROJECT_DIR$/goodskill-chat-provider/goodskill-chat-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-api/goodskill-es-api.iml" filepath="$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-api/goodskill-es-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-dao/goodskill-es-dao.iml" filepath="$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-dao/goodskill-es-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-service/goodskill-es-service.iml" filepath="$PROJECT_DIR$/goodsKill-es-provider/goodskill-es-service/goodskill-es-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-api/goodskill-mongo-api.iml" filepath="$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-api/goodskill-mongo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-service/goodskill-mongo-service.iml" filepath="$PROJECT_DIR$/goodsKill-mongo-provider/goodskill-mongo-service/goodskill-mongo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodskill-spring-boot-starter/goodskill-spring-boot-starter.iml" filepath="$PROJECT_DIR$/goodskill-spring-boot-starter/goodskill-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
